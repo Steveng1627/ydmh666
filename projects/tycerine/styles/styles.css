@@ -1200,7 +1200,7 @@ body.light-theme {
     font-size: 4rem;
     margin: 0;
     background: linear-gradient(135deg, #fff, #a0a0ff);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
